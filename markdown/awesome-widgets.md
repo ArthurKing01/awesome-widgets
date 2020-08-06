@@ -4,6 +4,12 @@
 
 ## awesome-widgets package
 
+## Classes
+
+|  Class | Description |
+|  --- | --- |
+|  [Student](./awesome-widgets.student.md) | Student |
+
 ## Functions
 
 |  Function | Description |

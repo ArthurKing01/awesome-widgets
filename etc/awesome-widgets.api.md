@@ -5,6 +5,18 @@
 ```ts
 
 // @public
+export class Student {
+    // (undocumented)
+    age: number;
+    // (undocumented)
+    getName(): string;
+    // (undocumented)
+    name: string;
+    // (undocumented)
+    score: number;
+}
+
+// @public
 export function test(a: number): number;
 
 
