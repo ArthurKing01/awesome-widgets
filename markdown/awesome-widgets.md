@@ -14,5 +14,5 @@
 
 |  Function | Description |
 |  --- | --- |
-|  [test(a)](./awesome-widgets.test.md) | test |
+|  [testFunc(a)](./awesome-widgets.testfunc.md) | test |
 

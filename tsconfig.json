@@ -6,8 +6,7 @@
         "declaration": true,
         "sourceMap": true,
         "declarationMap": true,
-        "types": [
-        ],
+        "types": ["jest"],
         "lib": [
         "es5"
         ],

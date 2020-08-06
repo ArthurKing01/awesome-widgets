@@ -4,7 +4,7 @@
  * @returns multi a
  * @public
  */
-export function test(a: number): number {
+export function testFunc(a: number): number {
     return a*2
 }
 

@@ -19,6 +19,6 @@ export declare class Student {
  * @returns multi a
  * @public
  */
-export declare function test(a: number): number;
+export declare function testFunc(a: number): number;
 
 export { }

@@ -17,7 +17,7 @@ export class Student {
 }
 
 // @public
-export function test(a: number): number;
+export function testFunc(a: number): number;
 
 
 // (No @packageDocumentation comment for this package)
